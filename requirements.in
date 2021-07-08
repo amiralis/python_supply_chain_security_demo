@@ -1,0 +1,4 @@
+requests==2.1.0
+flask
+urllib3==1.25.2
+xml2dict==0.2.2
