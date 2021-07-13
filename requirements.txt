@@ -11,7 +11,7 @@ click==8.0.1 \
 flask==2.0.1 \
     --hash=sha256:1c4c257b1892aec1398784c63791cbaa43062f1f7aeb555c4da961b20ee68f55 \
     --hash=sha256:a6209ca15eb63fc9385f38e452704113d679511d9574d09b2cf9183ae7d20dc9
-    # via pysupplychaindemo (setup.py)
+    # via -r requirements.in
 itsdangerous==2.0.1 \
     --hash=sha256:5174094b9637652bdb841a3029700391451bd092ba3db90600dea710ba28e97c \
     --hash=sha256:9e724d68fc22902a1435351f84c3fb8623f303fffcc566a4cb952df8c572cff0
@@ -59,15 +59,15 @@ markupsafe==2.0.1 \
 requests==2.1.0 \
     --hash=sha256:a57307f3a5f35ec9e1254aaf3e0484063ee3ee6b5f123fb35c5b2673492efa71 \
     --hash=sha256:fcef306d62b1c061eb00b8402cf136ff0ea1daf7a53b60cdef9563a22850072c
-    # via pysupplychaindemo (setup.py)
-urllib3==1.25.2 \
-    --hash=sha256:a53063d8b9210a7bdec15e7b272776b9d42b2fd6816401a0d43006ad2f9902db \
-    --hash=sha256:d363e3607d8de0c220d31950a8f38b18d5ba7c0830facd71a1c6b1036b7ce06c
-    # via pysupplychaindemo (setup.py)
+    # via -r requirements.in
+urllib3==1.26.5 \
+    --hash=sha256:753a0374df26658f99d826cfe40394a686d05985786d946fbe4165b5148f5a7c \
+    --hash=sha256:a7acd0977125325f516bda9735fa7142b909a8d01e8b2e4c8108d0984e6e0098
+    # via -r requirements.in
 werkzeug==2.0.1 \
     --hash=sha256:1de1db30d010ff1af14a009224ec49ab2329ad2cde454c8a708130642d579c42 \
     --hash=sha256:6c1ec500dcdba0baa27600f6a22f6333d8b662d22027ff9f6202e3367413caa8
     # via flask
 xml2dict==0.2.2 \
     --hash=sha256:20e4b48926ba3537b57587496c46d2c96fc5cf5707a0bdd8a7b1368122e0e964
-    # via pysupplychaindemo (setup.py)
+    # via -r requirements.in

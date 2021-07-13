@@ -17,7 +17,7 @@ setup(
   install_requires=[
         'requests==2.1.0',
         'flask',
-        'urllib3==1.25.2',
+        'urllib3==1.26.5',
         'xml2dict==0.2.2'],
   keywords = ['demo', 'security', 'supply chain'],
   classifiers = [
