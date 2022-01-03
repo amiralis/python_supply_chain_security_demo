@@ -56,9 +56,9 @@ markupsafe==2.0.1 \
     --hash=sha256:f9081981fe268bd86831e5c75f7de206ef275defcb82bc70740ae6dc507aee51 \
     --hash=sha256:fa130dd50c57d53368c9d59395cb5526eda596d3ffe36666cd81a44d56e48872
     # via jinja2
-requests==2.1.0 \
-    --hash=sha256:a57307f3a5f35ec9e1254aaf3e0484063ee3ee6b5f123fb35c5b2673492efa71 \
-    --hash=sha256:fcef306d62b1c061eb00b8402cf136ff0ea1daf7a53b60cdef9563a22850072c
+requests==2.27.0 \
+    --hash=sha256:8e5643905bf20a308e25e4c1dd379117c09000bf8a82ebccc462cfb1b34a16b5 \
+    --hash=sha256:f71a09d7feba4a6b64ffd8e9d9bc60f9bf7d7e19fd0e04362acb1cfc2e3d98df
     # via pysupplychaindemo (setup.py)
 urllib3==1.25.2 \
     --hash=sha256:a53063d8b9210a7bdec15e7b272776b9d42b2fd6816401a0d43006ad2f9902db \
