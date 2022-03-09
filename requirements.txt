@@ -12,9 +12,9 @@ flask==2.0.1 \
     --hash=sha256:1c4c257b1892aec1398784c63791cbaa43062f1f7aeb555c4da961b20ee68f55 \
     --hash=sha256:a6209ca15eb63fc9385f38e452704113d679511d9574d09b2cf9183ae7d20dc9
     # via pysupplychaindemo (setup.py)
-itsdangerous==2.0.1 \
-    --hash=sha256:5174094b9637652bdb841a3029700391451bd092ba3db90600dea710ba28e97c \
-    --hash=sha256:9e724d68fc22902a1435351f84c3fb8623f303fffcc566a4cb952df8c572cff0
+itsdangerous==2.1.1 \
+    --hash=sha256:7b7d3023cd35d9cb0c1fd91392f8c95c6fa02c59bf8ad64b8849be3401b95afb \
+    --hash=sha256:935642cd4b987cdbee7210080004033af76306757ff8b4c0a506a4b6e06f02cf
     # via flask
 jinja2==3.0.1 \
     --hash=sha256:1f06f2da51e7b56b8f238affdd6b4e2c61e39598a378cc49345bc1bd42a978a4 \
